@@ -18,12 +18,22 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"> 🙎 Bestcim | 💻 Full Stack Developer | 🛸 Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
- 
+
 
  
- 
-<img src="https://media.giphy.com/media/lWwl5WMuYXsvzUwhXg/giphy.gif">
+<p align="center" >
+<a href="https://media.giphy.com/media/xUNd9K4pDRrrt6jiyk/giphy.gif"> 
+    <img  src="https://media.giphy.com/media/xUNd9K4pDRrrt6jiyk/giphy.gif"/>
+  </a>
 
+</p>
+
+
+<br />
+
+
+
+<p align="center">
 
 
   <h3> I'm 16 years old Full-Stack developer from Turkey</h3>
@@ -47,7 +57,7 @@
   <h4> Full Stack | Python | Cyber security </h4>
    </p>
 
-<!--  -->
+<!-- bestcim -->
 
 <p align="center" >
 <a href="https://github.com/Bestcim/github-readme-stats"> 
@@ -89,19 +99,27 @@
 </p>
 -->
 
+<p align="center" >
+<a href="https://github.com/Bestcim/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=bestcim&&show_icons=true&theme=radical"/>
+  </a>
 
 
- ### - What i do
+<p align="center" >
+<a href="https://media.giphy.com/media/RMNyPAzibJoVa/giphy.gif"> 
+    <img  src="https://media.giphy.com/media/RMNyPAzibJoVa/giphy.gif"/>
+  </a>
+
+</p>
 
 
 <br />
+
+
 
 <p align="center">
-   <img src="https://tr.pinterest.com/pin/665266176215264210/" />
-   </p>
-   
-   
-<br />
+
+ 
 
 <h2 align="center">🤝 Support</h2>
 
