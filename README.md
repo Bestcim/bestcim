@@ -1,3 +1,22 @@
+
+</p>
+<p align="center">
+  <a href="https://discord.com/users/929259820350066718">
+    <img src="https://lanyard.cnrad.dev/api/929259820350066718?bg=0a0f16"alt="Discord Profile"/>   
+  </a>
+</p>
+
+```js
+const Bestcim = {
+    Name: 'Mustafa',
+    City: 'Düzce',
+    Age: '16',
+    FavoriteLanguage: "Pyhton-JavaScript-C++",
+    },
+    //Tanışmak isteyen olursa discordum yukarıda .d
+```
+
+
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Best</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
