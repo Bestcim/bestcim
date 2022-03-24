@@ -10,7 +10,7 @@
 const Bestcim = {
     Name: 'Mustafa',
     City: 'Düzce',
-    Age: '16',
+    Age: '19',
     FavoriteLanguage: "Pyhton-JavaScript-C++",
     },
     //Tanışmak isteyen olursa discordum yukarıda .d
@@ -54,7 +54,7 @@ const Bestcim = {
 <p align="center">
 
 
-  <h3> I'm 16 years old Full-Stack developer from Turkey</h3>
+  <h3> I'm 19 years old Full-Stack developer from Turkey</h3>
 </p>
 
  - 🥀 Learning Python & JavaScript & c++
