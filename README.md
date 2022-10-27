@@ -10,7 +10,7 @@
 const Bestcim = {
     Name: 'Mustafa',
     City: 'Düzce',
-    Age: '19',
+    Age: '17',
     FavoriteLanguage: "Pyhton-JavaScript-C++",
     },
     //Tanışmak isteyen olursa discordum yukarıda .d
