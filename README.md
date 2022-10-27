@@ -54,7 +54,7 @@ const Bestcim = {
 <p align="center">
 
 
-  <h3> I'm 19 years old Full-Stack developer from Turkey</h3>
+  <h3> I'm 17 years old Back-end developer from Turkey</h3>
 </p>
 
  - 🥀 Learning Python & JavaScript & c++
